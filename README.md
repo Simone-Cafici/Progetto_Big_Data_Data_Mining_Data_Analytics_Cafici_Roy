@@ -1,7 +1,5 @@
 # 📊 BIG DATA ANALYSIS: ORO & ARGENTO
 
-Analisi dei Metalli Preziosi come Beni Rifugio (2000-2026)
-
 ## 🚀 Guida all'Uso
 
 ### 1. Crea Ambiente Virtuale
